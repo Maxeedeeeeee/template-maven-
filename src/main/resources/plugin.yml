@@ -1,0 +1,5 @@
+name: template
+version: '1.0'
+main: me.pvpclub.template.Template
+api-version: '1.21'
+authors: [ PvPClubPlugins, and Ponkstars ]
